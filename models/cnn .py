@@ -1,4 +1,3 @@
-pip install numpy pandas matplotlib seaborn scikit-learn opencv-python tensorflow torch torchvision albumentations
 
 import os
 import cv2
